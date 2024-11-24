@@ -1,0 +1,44 @@
+{
+	"name": "lkacom/persian",
+	"type": "flarum-extension",
+	"description": "افزونه زبان فارسی Flarum",
+	"homepage": "https://www.l-ka.com",
+	"keywords": [
+		"locale",
+		"farsi",
+		"فارسی",
+		"افزونه",
+		"فلاروم",
+		"extension",
+		"flarum",
+		"persian"
+	],
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/lkacom/persian/issues",
+		"source": "https://github.com/lkacom/persian"
+	},
+	"require": {
+		"flarum/core": "^1.0"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"extra": {
+		"flarum-extension": {
+			"title": "فارسی",
+			"category": "language",
+			"icon": {
+				"image": "icon.svg",
+				"backgroundSize": "cover",
+				"backgroundPosition": "center"
+			}
+		},
+		"flarum-locale": {
+			"code": "fa",
+			"title": "Persian"
+		},
+		"extiverse": {
+			"discuss": ""
+		}
+	}
+}
