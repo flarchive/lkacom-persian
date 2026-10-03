@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of lkacom/persian.** Not for installation: use [Packagist](https://packagist.org/packages/lkacom/persian) or the [upstream repository](https://github.com/lkacom/persian).
 
-**0** versions archived · Latest: [`1.6`](https://github.com/flarchive/lkacom-persian/tree/archive/v1.6) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`1.6`](https://github.com/flarchive/lkacom-persian/tree/archive/v1.6) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-11-19 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.0) |
+| `1.1` | 2024-11-19 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.1) |
+| `1.2` | 2024-11-19 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.2) |
+| `1.3` | 2024-11-24 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.3) |
+| `1.4` | 2024-11-24 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.4) |
+| `1.5` | 2024-11-28 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.5) |
+| `1.6` | 2024-12-19 | `^1.0` | [Browse](https://github.com/flarchive/lkacom-persian/tree/archive/v1.6) |
 
 Catalog entry: [packages/lkacom-persian.json](https://github.com/flarchive/archive-index/blob/main/packages/lkacom-persian.json)
 
